@@ -1,0 +1,33 @@
+.custom-menu .ant-menu-item {
+  color: black !important;
+}
+
+.custom-menu .ant-menu-item:hover {
+  background-color: #948979!important;
+  color: inherit !important;
+}
+
+.custom-menu .ant-menu-item-selected {
+  background-color: #948979 !important;
+  color: white !important;
+}
+
+.custom-menu .ant-menu-item-selected:hover {
+  background-color: #948979 !important;
+  color: inherit !important;
+}
+
+.sidebar-menu {
+  border-radius: 10px;
+}
+
+
+
+@media (min-width: 768px) {
+  .sidebar-menu {
+    margin-left: 450px;
+    margin-top: 190px;
+    max-height: 600px;
+    max-width: 200px;
+  }
+}
