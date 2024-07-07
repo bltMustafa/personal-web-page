@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Card, Avatar } from 'antd';
 import { UserOutlined } from '@ant-design/icons';
 import "../styles/ProfileCard.css"

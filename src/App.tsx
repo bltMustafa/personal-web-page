@@ -1,15 +1,9 @@
 import Background from "./Components/Background.tsx"
 import SidebarMenu from './Components/SidebarMenu';
 import ProfileCard from './Components/ProfileCard';
-import { Layout, Menu, Card, Avatar } from 'antd';
-
-
+import { Layout} from 'antd';
 
 import './styles/MainPage.css';
-
-const { Sider } = Layout;
-
-
 
 function App() {
   return (
